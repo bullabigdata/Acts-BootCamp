@@ -1,0 +1,13 @@
+El objetivo es realizar una prediccion conjunta sobre los principales indices bursatiles de estados unidos 
+y definir cual sera la mejor inversion a lago plazo teniendo en cuenta que se invierta la misma cantidad x en 
+cada uno
+
+Links de yahoo finance desde 2008 hasta la fecha
+1.	Histórico S&P 500 hasta la actualidad:
+https://es.finance.yahoo.com/quote/%5EGSPC/history/
+2.	Histórico Nasdaq hasta la actualidad:
+https://es.finance.yahoo.com/quote/%5ENDX/history/
+3.	Histórico Dow Jones hasta la actualidad:
+https://es.finance.yahoo.com/quote/%5EDJI/history?period1=1200268800&period2=1694908800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
+4.      Historico Indice Russell 2000
+https://es.finance.yahoo.com/quote/%5ERUT/history?p=%5ERUT   
